@@ -15,7 +15,7 @@ The main objectives of this project are as follows:
 
 The repository includes the following files:
 
-- `stud.csv: containing the dataset used for analysis.
+- `stud.csv`: containing the dataset used for analysis.
 - `Hypothesis testing.ipynb`: Jupyter Notebook containing the Python code for data analysis and hypothesis testing.
 - `README.md`: This file, providing an overview of the project and instructions for running the analysis.
 
